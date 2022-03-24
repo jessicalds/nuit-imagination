@@ -1,7 +1,7 @@
 baseURL = 'https://caencamp.github.io/nuit-imagination/'
 languageCode = 'fr-fr'
 theme = 'soho'
-title = "Nuit de l'imaginaire"
+title = "jessica-mera"
 
 enableEmoji = true
 summarylength = 10
